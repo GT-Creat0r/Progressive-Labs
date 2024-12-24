@@ -1,1 +1,1 @@
-let x:number =10;
+let x = 20;
