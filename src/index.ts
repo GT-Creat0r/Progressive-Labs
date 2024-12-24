@@ -1,5 +1,5 @@
 let x = 20;
 let y = 30;
-if(y>30)
-    y-=5;
-console.log(y);
+ if (x<30)
+    x +=5;
+console.log(x);
