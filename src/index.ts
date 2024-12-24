@@ -1,1 +1,2 @@
-let x:number =10;
+let x:number =50;
+let y = 30;
