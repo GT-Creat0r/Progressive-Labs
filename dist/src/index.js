@@ -1,7 +1,9 @@
 "use strict";
-let x = 20;
-let y = 30;
-if (x < 30)
-    x += 5;
-console.log(x);
+let x = "gt";
+let n = 10000;
+let i = 0;
+let r;
+r = 1;
+r = "may";
+console.log(r);
 //# sourceMappingURL=index.js.map
