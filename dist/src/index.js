@@ -1,9 +1,5 @@
 "use strict";
-let x = "gt";
-let n = 10000;
-let i = 0;
-let r;
-r = 1;
-r = "may";
-console.log(r);
+
+let mySize = 4;
+console.log(mySize);
 //# sourceMappingURL=index.js.map
